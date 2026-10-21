@@ -15,6 +15,7 @@ keep the two in step.
 | Music: the jingles (2) | MintoDog | CC0 1.0 (`assets/audio/music/CREDITS.md`) | `assets/audio/music/` |
 | Music: the main track (`stage.ogg`) | alex-morgan (Pixabay) | Pixabay Content License (`assets/audio/music/CREDITS.md`) | `assets/audio/music/` |
 | Music: the boss fight (`boss.ogg`) | u_98a917e4i7 (Pixabay) | Pixabay Content License (`assets/audio/music/CREDITS.md`) | `assets/audio/music/` |
+| Monsters' sprites: Shella the snail, the dragon fish, the Totem Monster (from Monster Battlegrounds) | Wouter van Ham (art, code and design of Monster Battlegrounds) | used with the author's permission (`assets/sprites/monsters/CREDITS.md`) | `assets/sprites/monsters/` |
 | Recorded sound effects (12) | Pixabay uploaders | Pixabay Content License (`art_src/sfx/CREDITS.md`) | cut into `assets/audio/sfx/` |
 
 The MIT licence of Godot Engine:
