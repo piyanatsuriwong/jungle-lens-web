@@ -1,6 +1,6 @@
 # Third-party notices
 
-Jungle Lens is © 2026 piyanatsuriwong, all rights reserved (see `LICENSE`).
+UNBROKEN · Shadow Within is © 2026 piyanatsuriwong, all rights reserved (see `LICENSE`).
 These parts were made by others and stay under their own licences. The same
 list is shown in the game (title menu → "เครดิต / ลิขสิทธิ์", `scripts/ui/legal.gd`);
 keep the two in step.
