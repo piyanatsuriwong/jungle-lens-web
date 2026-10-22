@@ -10,6 +10,8 @@ keep the two in step.
 | Godot Engine 4.7 | Juan Linietsky, Ariel Manzur and contributors | MIT (full text: in game, `Engine.get_license_text()`) | the engine (`index.wasm`, `index.js`) |
 | Godot third-party components | various (FreeType, HarfBuzz, ...) | various (in game: `Engine.get_copyright_info()`) | the engine |
 | netfox, netfox.internals | Gálffy Tamás | MIT (`addons/netfox/LICENSE`) | `addons/netfox*` |
+| Effekseer for Godot 4 (the effects runtime) | Effekseer Project | MIT (`addons/effekseer/LICENSE`) | `addons/effekseer/` (Windows and web builds) |
+| Effekseer sample effects: ToonHit and Light (tktk), actionLines_halo / radial2 / shockwave / strip and fire (AndrewFM), Flame (Pierre), PowerUp (NextSoft) | their authors, shipped with Effekseer 1.80.6 | free to use and remodel in games made with Effekseer (the Effekseer readme) | `assets/vfx/effekseer/` |
 | webrtc-native and its libraries | Godot Engine and others | see `addons/webrtc_native/LICENSE.*` | desktop builds only (not in the web build) |
 | Noto Sans Thai, Noto Sans Symbols | The Noto Project Authors | SIL Open Font License 1.1 (`assets/fonts/OFL.txt`) | `assets/fonts/` |
 | Music: the jingles (2) | MintoDog | CC0 1.0 (`assets/audio/music/CREDITS.md`) | `assets/audio/music/` |
@@ -17,6 +19,7 @@ keep the two in step.
 | Music: the boss fight (`boss.ogg`) | u_98a917e4i7 (Pixabay) | Pixabay Content License (`assets/audio/music/CREDITS.md`) | `assets/audio/music/` |
 | Monsters' sprites: Shella the snail, the dragon fish, the Totem Monster (from Monster Battlegrounds) | Wouter van Ham (art, code and design of Monster Battlegrounds) | used with the author's permission (`assets/sprites/monsters/CREDITS.md`) | `assets/sprites/monsters/` |
 | Recorded sound effects (12) | Pixabay uploaders | Pixabay Content License (`art_src/sfx/CREDITS.md`) | cut into `assets/audio/sfx/` |
+| The Muay Thai fighter's voice (8 short shouts, `muay_*`) | generated with ElevenLabs text to speech (voice "Jessica", eleven_v3) on the project owner's account | ElevenLabs terms for generated audio (`art_src/sfx/CREDITS.md`) | cut into `assets/audio/sfx/` by `tools/make_muay_voice.py` |
 
 The MIT licence of Godot Engine:
 
@@ -44,4 +47,4 @@ SOFTWARE.
 ```
 
 The netfox licence is the same MIT text with the line
-`Copyright 2023 Gálffy Tamás`.
+`Copyright 2023 Gálffy Tamás`; the Effekseer licence with `Copyright (c) 2020 Effekseer`.
