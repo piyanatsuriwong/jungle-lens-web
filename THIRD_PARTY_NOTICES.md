@@ -18,7 +18,8 @@ keep the two in step.
 | Music: the main track (`stage.ogg`) | alex-morgan (Pixabay) | Pixabay Content License (`assets/audio/music/CREDITS.md`) | `assets/audio/music/` |
 | Music: the boss fight (`boss.ogg`) | u_98a917e4i7 (Pixabay) | Pixabay Content License (`assets/audio/music/CREDITS.md`) | `assets/audio/music/` |
 | Monsters' sprites: Shella the snail, the dragon fish, the Totem Monster (from Monster Battlegrounds) | Wouter van Ham (art, code and design of Monster Battlegrounds) | used with the author's permission (`assets/sprites/monsters/CREDITS.md`) | `assets/sprites/monsters/` |
-| Recorded sound effects (12) | Pixabay uploaders | Pixabay Content License (`art_src/sfx/CREDITS.md`) | cut into `assets/audio/sfx/` |
+| Recorded sound effects (5: the jump grunt, the death scream, the dragon's roar, fire and death) | Pixabay uploaders | Pixabay Content License (`art_src/sfx/CREDITS.md`) | cut into `assets/audio/sfx/` |
+| Sound effects (29: blades, hits, parries, dashes, landings, the dragon's growl / wings / slam, the bell, items, UI; `tools/make_sfx_set.py` `ONIKURA`) from the Onikura demo | Onikura's makers (Kazan Games) | used with the makers' permission (`art_src/sfx/CREDITS.md`) | cut into `assets/audio/sfx/` |
 | The Muay Thai fighter's voice (8 short shouts, `muay_*`) | generated with ElevenLabs text to speech (voice "Jessica", eleven_v3) on the project owner's account | ElevenLabs terms for generated audio (`art_src/sfx/CREDITS.md`) | cut into `assets/audio/sfx/` by `tools/make_muay_voice.py` |
 
 The MIT licence of Godot Engine:
